@@ -4,7 +4,7 @@ Showcase is a tiny library that helps you highlight a specific element on a page
 
 ## Example
 
-![Example Screenshot](https://github.com/SwagEasy/showcase/blob/master/suchmeta.png)
+![Example Screenshot](https://raw.githubusercontent.com/notduncansmith/showcase/master/suchmeta.png)
 
 ## Usage
 
